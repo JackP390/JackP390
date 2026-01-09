@@ -40,8 +40,3 @@ Aquí están las herramientas con las que construyo soluciones:
 </p>
 
 ---
-
-### 📈 Estadísticas de GitHub
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JackP390&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas" />
-</p>
