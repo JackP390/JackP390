@@ -14,9 +14,9 @@
 ### 👨‍💻 Sobre mí
 Estudiante de Ingeniería en Informática en **INACAP**. Me apasiona el desarrollo de software y disfruto optimizando mi flujo de trabajo en **Linux**, aprendiendo cada día cómo sacar más provecho a la terminal y al sistema operativo.
 
-* 🎓 **Estado actual:** En búsqueda de **Práctica Profesional** (Internship).
+* 🎓 **Estado actual:** En búsqueda de **Trabajo full time**.
 * 🌱 **Aprendiendo:** Profundizando en arquitectura de software y desarrollo de videojuegos con Godot.
-* 🐧 **Entorno:** Usuario diario de **Pop!_OS** (Linux).
+* 🐧 **Entorno:** Usuario diario de **Fedora Workstation** (Linux).
 * ⚡ **Soft Skills:** Investigación técnica, resolución de problemas y adaptabilidad.
 
 ---
